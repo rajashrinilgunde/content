@@ -8,7 +8,7 @@ console.log(result);
 
 if(regex.test(str))
 {
-    console.log(`matches the expression ${str}`);
+    //console.log(`matches the expression ${str}`);
 }
 else{
     console.log(`${str} doesnt match`);
